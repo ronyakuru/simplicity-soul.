@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simplicity & Soul</title>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1 class="title">Simplicity & Soul</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Welcome to Simplicity & Soul</h2>
+            <p>Discover the art of living simply, with soul and purpose. Join me on a journey of minimalism, style, and self-discovery.</p>
+            <a href="blog.html" class="read-more">Read the Latest Post</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Simplicity & Soul</p>
+    </footer>
+
+</body>
+</html>
